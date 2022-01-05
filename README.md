@@ -12,6 +12,7 @@ Generate Rent receipts for the months mentioned
 
 You only need to change the variables and the script will automatically generate recipts
 
+```
 variables = {
         "RENT_MONTH": month,
         "PAYEE_NAME": "Vaibhav Vikas",
@@ -20,6 +21,7 @@ variables = {
         "LANDLORD_NAME": "Some Name",
         "LANDLORD_UPI": "123456789"
     }
+```
 
 to configure months for e.g. if you want to generate receipts only for months say Aug-Dec
 just make changes in the line no 63 to (8, 12)

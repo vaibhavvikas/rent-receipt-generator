@@ -3,7 +3,7 @@ Generate Rent receipts for the months mentioned
 
 
 ## Libraries required:
-    > pip isntall docx2pdf
+    > pip install docx2pdf
     > pip install PyPDF4
     > pip install python-docx
 

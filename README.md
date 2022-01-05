@@ -10,6 +10,8 @@ Generate Rent receipts for the months mentioned
 ## Other requirements:
     For converting docx to pdf you require Microsoft Office on windows 
 
+## How to use
+
 You only need to change the variables and the script will automatically generate recipts
 
 ```

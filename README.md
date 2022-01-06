@@ -26,11 +26,11 @@ You only need to change the variables and the script will automatically generate
         "LANDLORD_NAME": "Some Name",
         "LANDLORD_UPI": "123456789",
         "LANDLORD_PAN": "XXXXXXXXXX",
-        "LANDLORD_SIGN": InlineImage(tpl, 'signature.jpg', height=Mm(20)),
+        "LANDLORD_SIGN": InlineImage(tpl, 'signature.png', height=Mm(20)),
     }
 ```
 
 to configure months for e.g. if you want to generate receipts only for months say Aug-Dec
-just make changes in the line no 55 to (8, 12)
+just make changes in the line no 57 to (8, 12)
 
-Similarly, for years you gotta make changes in the line no 54
+Similarly, for years you gotta make changes in the line no 56

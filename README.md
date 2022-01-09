@@ -24,7 +24,6 @@ You only need to change the variables and the script will automatically generate
         "PAYMENT_MODE": "UPI",
         "PROPERTY_ADDRESS": "New Delhi",
         "LANDLORD_NAME": "Some Name",
-        "LANDLORD_UPI": "123456789",
         "LANDLORD_PAN": "XXXXXXXXXX",
         "LANDLORD_SIGN": InlineImage(tpl, 'signature.png', height=Mm(20)),
     }

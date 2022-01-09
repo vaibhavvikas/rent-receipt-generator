@@ -27,7 +27,6 @@ def rent_variables(month):
         "PAYMENT_MODE": "UPI",
         "PROPERTY_ADDRESS": "New Delhi",
         "LANDLORD_NAME": "First Last",
-        "LANDLORD_UPI": "123456789",
         "LANDLORD_PAN": "XXXXXXXXXX",
         "LANDLORD_SIGN": InlineImage(tpl, 'signature.png', height=Mm(8)),
     }

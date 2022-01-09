@@ -3,14 +3,15 @@ Generate Rent receipts for the months mentioned
 
 
 ## Libraries required:
-    > pip install docx2pdf
-    > pip install PyPDF4
-    > pip install python-docx
-    > pip install docxtpl
-    > pip install jinja2
+All the libraries are mentioned in the requirements.txt file. You can install aa the libraries by
+running the command
+
+    > pip install -r requirements.txt
+
 
 ## Other requirements:
-    For converting docx to pdf you require Microsoft Office on windows 
+
+For converting docx to pdf you require Microsoft Office on windows 
 
 ## How to use
 

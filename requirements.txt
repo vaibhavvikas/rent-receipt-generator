@@ -1,0 +1,5 @@
+docx2pdf
+PyPDF4
+python-docx
+docxtpl
+jinja2

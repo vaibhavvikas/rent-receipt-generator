@@ -3,7 +3,7 @@ Generate Rent receipts for the months mentioned
 
 
 ## Libraries required:
-All the libraries are mentioned in the requirements.txt file. You can install aa the libraries by
+All the libraries are mentioned in the requirements.txt file. You can install all the libraries by
 running the command
 
     > pip install -r requirements.txt
